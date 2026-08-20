@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-CS @ NYU
+CS @ NYU  
+
 Interested in applied ML, data infrastructure, and agentic AI
