@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 CS @ NYU  
 
-Interested in NLP, applied ML, and data infrastructure
+Interested in agentic systems, applied ML, and data infrastructure
